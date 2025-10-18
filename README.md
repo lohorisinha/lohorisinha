@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Lohori!
 
-### ### KIIT-DU'28 | Full-Stack Web Developer | CSE Student
+### KIIT-DU'28 | CSE
 
 ---
 

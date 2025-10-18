@@ -1,37 +1,45 @@
 # 👋 Hello, I'm Lohori!
 
-### 🎓 CSE Undergraduate | 💻 Developer-in-Training | ✨ Perpetual Learner
+### ### KIIT-DU'28 | Full-Stack Web Developer | CSE Student
 
 ---
 
-I'm a passionate Computer Science and Engineering student focused on building robust and efficient software. My journey in tech is driven by curiosity, a love for problem-solving, and a commitment to mastering the fundamentals of computer science.
-
-I believe in continuous learning and currently spend most of my time exploring new frameworks, strengthening my algorithmic knowledge, and contributing to personal projects.
+I'm a passionate Computer Science and Engineering student primarily focused on **Web Development** and building robust, efficient applications. My approach is centered on mastering core software fundamentals and translating abstract problems into functional code. I believe in continuous learning, which drives me to expand my technical breadth, from front-end design to low-level system understanding.
 
 ---
 
-## 🛠️ My Technical Toolbox
+## 🛠️ Core Technical Toolkit
 
-Here are the technologies and concepts I currently work with:
+This section outlines the technologies I currently use and am building proficiency in:
 
 | Category | Skills & Focus Areas |
 | :--- | :--- |
-| **Languages** | C, Python, JavaScript, SQL |
-| **Web Dev** | HTML/CSS, Tailwind CSS, React.js, Node.js |
-| **Tools** | Git, GitHub, VS Code |
+| **Primary Languages** | Python, JavaScript, C |
+| **Web Development** | **React.js**, **Node.js**, HTML/CSS, **Tailwind CSS**, REST APIs |
+| **Tools & Platforms** | Git, **GitHub**, VS Code |
+| **Broadening Scope** | C++, Java, AI/ML |
 
 ---
 
-## 🔭 What I'm Learning Right Now
+## 🔭 Current Growth Trajectory
 
-Currently, I am actively focused on expanding my capabilities in these areas:
+My current learning is structured to build a strong specialization in Web Development while cultivating broad foundational knowledge:
 
-* **[Specific Skill/Framework]:** Deepening my knowledge in modern CSS layout techniques (Flexbox and Grid) and beginning my exploration of Vanilla JavaScript (DOM manipulation and API fetching basics).
-* **[Core Concept]:** Working on complex problems related to Hashing and Hash Maps, while beginning my formal study of Tree data structures (Binary Search Trees) and their associated algorithms.
-* **[New Domain]:** Exploring the process of Software Version Control by mastering complex Git workflows (branching, merging, and pull requests) and beginning my use of Docker for local development environments.
+* **Web Development:** Advancing proficiency in **modern CSS layout techniques** (Flexbox/Grid) and strengthening **Vanilla JavaScript** skills, with a focus on asynchronous operations and DOM manipulation.
+* **Core Concepts (DSA):** Working on complex **Data Structure and Algorithm** problems related to **Hashing** and beginning formal study of **Tree data structures** to optimize algorithmic efficiency.
+* **AI/ML Fundamentals:** Exploring **Python's data science ecosystem** by learning the practical usage of core libraries like **NumPy** and **Pandas** in preparation for Machine Learning concepts.
+* **Containerization:** Beginning the use of **Docker** for creating isolated, reproducible local development environments and mastering complex **Git workflows**.
 
 ---
 
-### 📊 GitHub Activity (Optional)
+## 📊 GitHub Activity
+
+Showcasing my current performance and focus areas on GitHub:
 
 [![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=lohorisinha&show_icons=true&theme=default&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lohorisinha&layout=compact&theme=default&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lohorisinha&theme=default&hide_border=true)](https://git.io/streak-stats)
+
+---

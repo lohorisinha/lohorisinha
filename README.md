@@ -31,15 +31,3 @@ My current learning is structured to build a strong specialization in Web Develo
 * **Containerization:** Beginning the use of **Docker** for creating isolated, reproducible local development environments and mastering complex **Git workflows**.
 
 ---
-
-## 📊 GitHub Activity
-
-Showcasing my current performance and focus areas on GitHub:
-
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=lohorisinha&show_icons=true&theme=default&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lohorisinha&layout=compact&theme=default&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lohorisinha&theme=default&hide_border=true)](https://git.io/streak-stats)
-
----

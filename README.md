@@ -1,7 +1,5 @@
 # Hi, I'm Lohori 👋
 
----
-
 I'm a second-year Computer Science & Engineering student specializing in full-stack web development, with a strong interest in building scalable, production-ready applications. I enjoy solving complex engineering problems — from designing clean REST APIs to integrating AI/ML capabilities into real-world products. I'm currently deepening my expertise in system design, DSA and machine learning fundamentals. My latest project is **[Splyttr](https://splyttr-orcin.vercel.app)** — an AI-powered receipt splitting app.
 
 ---

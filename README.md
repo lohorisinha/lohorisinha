@@ -1,6 +1,9 @@
 # Hi, I'm Lohori 👋
 
-I'm a second-year Computer Science & Engineering student specializing in full-stack web development, with a strong interest in building scalable, production-ready applications. I enjoy solving complex engineering problems — from designing clean REST APIs to integrating AI/ML capabilities into real-world products. I'm currently deepening my expertise in system design, DSA and machine learning fundamentals. My latest project is **[Splyttr](https://splyttr-orcin.vercel.app)** — an AI-powered receipt splitting app.
+- Second-year Computer Science & Engineering student specializing in full-stack web development, with a strong interest in building scalable, production-ready applications.
+- I enjoy solving complex engineering problems — from designing clean REST APIs to integrating AI/ML capabilities into real-world products.
+- Currently learning Rust & Go for systems and backend engineering, while building real projects from the ground up to deepen my foundations in how software actually works under the hood.
+- Latest project: **[Splyttr](https://splyttr-orcin.vercel.app)** — an AI-powered receipt splitting app.
 
 ---
 
@@ -10,4 +13,4 @@ I'm a second-year Computer Science & Engineering student specializing in full-st
 
 ---
 
-I'm actively looking for **SDE internship opportunities** for Summer 2026. If you're hiring or want to collaborate, feel free to [mail me](mailto:lohorisinha06@gmail.com).
+I'm actively looking for **SDE internship opportunities** for Summer 2026. If you're hiring or want to collaborate, feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/lohori-sinha-0117483b5?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) or [mail me](mailto:lohorisinha06@gmail.com).

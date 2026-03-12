@@ -1,9 +1,9 @@
 # Hi, I'm Lohori 👋
 
-- Second-year Computer Science & Engineering student specializing in full-stack web development, with a strong interest in building scalable, production-ready applications.
-- I enjoy solving complex engineering problems — from designing clean REST APIs to integrating AI/ML capabilities into real-world products.
-- Currently learning Rust & Go for systems and backend engineering, while building real projects from the ground up to deepen my foundations in how software actually works under the hood.
-- Latest project: **[Splyttr](https://splyttr-orcin.vercel.app)** — an AI-powered receipt splitting app.
+- Second-year Computer Science & Engineering student with a strong interest in building at the intersection of AI and real-world software.
+- I enjoy digging into problems that sit between ML research and production engineering — OCR pipelines, agentic LLM systems and how AI behaves on messy, real-world inputs.
+- Currently building **[scriptcheck](https://github.com/lohorisinha/scriptcheck)** — an open-source benchmarking tool for OCR engines on Indic language documents, with CER/WER evaluation and HTML reports.
+- Latest shipped project: **[Splyttr](https://splyttr-orcin.vercel.app)** — an AI-powered receipt splitting app using OCR + Gemini API.
 
 ---
 

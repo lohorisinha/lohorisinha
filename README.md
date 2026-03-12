@@ -13,4 +13,4 @@
 
 ---
 
-I'm actively looking for **SDE internship opportunities** for Summer 2026. If you're hiring or want to collaborate, feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/lohori-sinha-0117483b5?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) or [mail me](mailto:lohorisinha06@gmail.com).
+I'm actively looking for **SDE internship opportunities** for Summer 2026. If you're hiring or want to collaborate, feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/lohorisinha) or [mail me](mailto:lohorisinha06@gmail.com).

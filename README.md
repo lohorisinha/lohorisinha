@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2000&pause=500&color=58A6FF&background=0D111700&center=false&vCenter=true&width=280&lines=Hi,+I'm+Lohori!;Welcome+to+my+GitHub;Let's+build+something+cool" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2000&pause=500&color=58A6FF&background=0D111700&center=false&vCenter=true&width=280&lines=Hi,+I'm+Lohori!;Welcome+to+my+GitHub" />
 
 - Second-year Computer Science & Engineering student with a strong interest in building at the intersection of AI and real-world software.
 - I enjoy digging into problems that sit between ML research and production engineering — OCR pipelines, agentic LLM systems and how AI behaves on messy, real-world inputs.

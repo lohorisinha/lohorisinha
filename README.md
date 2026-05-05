@@ -1,4 +1,9 @@
-# Hi, I'm Lohori <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=500&color=58A6FF&background=0D111700&center=false&vCenter=true&width=200&lines=Hi+there!;Hey!;Hello!" /> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="50px">
+
+# Hi, I'm Lohori
+
+![Profile Views](https://komarev.com/ghpvc/?username=lohorisinha&style=for-the-badge&color=1f6feb&labelColor=0d1117)
+
 - Second-year Computer Science & Engineering student with a strong interest in building at the intersection of AI and real-world software.
 - I enjoy digging into problems that sit between ML research and production engineering — OCR pipelines, agentic LLM systems and how AI behaves on messy, real-world inputs.
 - Currently building **[scriptcheck](https://github.com/lohorisinha/scriptcheck)** — an open-source benchmarking tool for OCR engines on Indic language documents, with CER/WER evaluation and HTML reports.

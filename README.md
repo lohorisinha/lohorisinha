@@ -12,6 +12,4 @@ I'm a second-year Computer Science & Engineering student exploring the space bet
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=lohorisinha&theme=github-compact&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true&hide_border=true" />
 </p>
 
-&nbsp;
-
-I'm actively looking for internship opportunities — if you're hiring or want to collaborate, reach out on [LinkedIn](https://www.linkedin.com/in/lohorisinha) or [mail me](mailto:lohorisinha06@gmail.com).
+I'm looking for internship opportunities — if you're hiring or want to collaborate, reach out on [LinkedIn](https://www.linkedin.com/in/lohorisinha) or [mail me](mailto:lohorisinha06@gmail.com).

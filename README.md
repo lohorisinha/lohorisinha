@@ -2,7 +2,7 @@
 
 I'm a second-year Computer Science & Engineering student exploring the space between AI/ML and production engineering — things like OCR pipelines, agentic LLM systems and how AI actually holds up on messy real-world inputs.
 
-- Currently building **[PingMentor](https://github.com/lohorisinha/PingMentor)** as a **SWE Intern** — a platform that connects Indians in financial crisis with verified expert mentors. I'm working across the full stack: landing page, animations, and backend (database, email flow, payments).
+- Currently building **[PingMentor]** as a **SWE Intern** — a platform that connects Indians in financial crisis with verified expert mentors. I'm working across the full stack: landing page, animations, and backend (database, email flow, payments).
 - Latest shipped project: **[Splyttr](https://splyttr-orcin.vercel.app)** — an AI-powered receipt splitting app using OCR + Gemini API.
 
 <p align="center">

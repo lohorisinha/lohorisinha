@@ -6,10 +6,11 @@ I'm a second-year Computer Science & Engineering student exploring the space bet
 - Latest shipped project: **[Splyttr](https://splyttr-orcin.vercel.app)** — an AI-powered receipt splitting app using OCR + Gemini API.
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=lohorisinha&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&sideNums=c9d1d9&currStreakNum=c9d1d9" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=lohorisinha&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&sideNums=c9d1d9&currStreakNum=c9d1d9" />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lohorisinha&theme=github-compact&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true&hide_border=true" />
+  <img src="https://ghchart.rshah.org/58a6ff/lohorisinha" />
 </p>
 
 I'm looking for internship opportunities. If you're hiring or want to collaborate, feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/lohorisinha) or [mail me](mailto:lohorisinha06@gmail.com).

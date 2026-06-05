@@ -9,8 +9,4 @@ I'm a second-year Computer Science & Engineering student exploring the space bet
   <img src="https://github-readme-streak-stats.herokuapp.com?user=lohorisinha&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&sideNums=c9d1d9&currStreakNum=c9d1d9" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lohorisinha&theme=github_dark" />
-</p>
-
 I'm looking for internship opportunities. If you're hiring or want to collaborate, feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/lohorisinha) or [mail me](mailto:lohorisinha06@gmail.com).

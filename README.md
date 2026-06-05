@@ -10,7 +10,7 @@ I'm a second-year Computer Science & Engineering student exploring the space bet
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lohorisinha&theme=github_dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lohorisinha&theme=react-dark&hide_border=true&area=true&color=58a6ff&line=58a6ff&point=58a6ff" />
 </p>
 
 I'm looking for internship opportunities. If you're hiring or want to collaborate, feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/lohorisinha) or [mail me](mailto:lohorisinha06@gmail.com).

@@ -1,6 +1,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2000&pause=500&color=58A6FF&background=0D111700&center=false&vCenter=true&width=280&lines=Hi,+I'm+Lohori!;Welcome+to+my+GitHub." />
 
-I'm a second-year Computer Science & Engineering student exploring the space between AI/ML and production engineering — things like OCR pipelines, agentic LLM systems and how AI actually holds up on messy real-world inputs.
+I'm a third-year Computer Science & Engineering student exploring the space between AI/ML and production engineering — things like OCR pipelines, agentic LLM systems and how AI actually holds up on messy real-world inputs.
 
 - Currently building **PingMentor** as a **SWE Intern** — a platform that connects Indians in financial crisis with verified expert mentors. I'm working across the full stack: landing page, animations, and backend (database, email flow, payments).
 - Latest shipped project: **[Splyttr](https://splyttr-orcin.vercel.app)** — an AI-powered receipt splitting app using OCR + Gemini API.
